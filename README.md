@@ -1,7 +1,12 @@
 # todo-list-Vanilla-JS-
 A simple todo list created using vanila js and jquery.  
+
 User Can create , complete , delete a todo.
-Added a Clock and 
+
+Added a Clock using API that displays Time and Date
+
 Used only jquery to add functionalities 
+
 used google fonts
+
 This is a just a Beginner project
