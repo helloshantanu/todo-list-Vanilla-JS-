@@ -1,6 +1,6 @@
 # todo-list-Vanilla-JS-
 
-![Screenshot of browser Window] (/Screenshot (20)-min.png)
+![Screenshot of browser Window] (Screenshot (20)-min.png)
 A simple todo list created using vanila js and jquery.  
 
 User Can create , complete , delete a todo.
