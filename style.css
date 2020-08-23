@@ -1,0 +1,117 @@
+/* Code Author : Shantanu jain */
+/* Connect with Me on linkedin  */
+/* If you wish to use any component , feel free */
+/* Star the Github repo */
+
+
+body{
+   background-color: rgba( 0,0 ,0, 0.99) ;
+   background-image: url("https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+   background-size: cover;
+   font-family: 'Do Hyeon', sans-serif; 
+   background-attachment: fixed;
+   
+   background-blend-mode: screen;
+}
+iframe{
+    width: 100%;
+}
+
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+h1 {
+	background: black;
+	color: white;
+	margin: 0;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.fa-plus {
+	float: right;
+}
+
+li {
+	background: #fff;
+	height: 40px;
+	line-height: 40px;
+	color: #666;
+}
+
+li:nth-child(2n){
+	background: #f7f7f7;
+}
+
+li span {
+	background: #e74c3c;
+	height: 40px;
+	margin-right: 20px;
+	text-align: center;
+	color: white;
+	width: 0;
+	display: inline-block;
+	transition: 0.2s linear;
+	opacity: 0;
+}
+
+li:hover span {
+	width: 40px;
+	opacity: 1.0;
+}
+
+input {
+	font-size: 18px;
+	color: black;
+	background-color: #f7f7f7;
+	width: 100%;
+	padding: 13px 13px 13px 20px;
+	box-sizing: border-box;
+	border: 3px solid rgba(0,0,0,0);
+}
+
+input:focus{
+	background: #fff;
+    border: 3px solid black;
+    outline: none;
+}
+
+#container {
+	width: 360px;
+	margin: 100px auto;
+	background: #f7f7f7;
+	box-shadow: 0 0 3px rgba(0,0,0, 0.1);
+}
+
+.completed {
+	color: gray;
+	text-decoration: line-through;
+}
+
+
+.quote{
+    margin-top: 3%;
+    position: static;
+    float: left;
+    writing-mode:vertical-rl;
+    transition: transform 1s, margin-left 1s;
+    transition-timing-function: ease-in;
+    padding: 0px 40px 0px 80px;
+    text-emp
+    
+
+}
+.quote:hover  {
+   color: white; 
+   transform: scale(1.2,1.2);
+   transform: rotateZ(-90deg);
+   Margin-left: 9%;
+}
+
