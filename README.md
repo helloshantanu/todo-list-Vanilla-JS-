@@ -1,4 +1,4 @@
-# Todo-list-Vanilla-JS-
+# todo-list-vanilla-js
 <img src="https://github.com/helloshantanu/todo-list-Vanilla-JS-/blob/master/Screenshot%20(20)-min.png">
 -
 A simple todo list created using vanila js and jquery.  
